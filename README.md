@@ -10,7 +10,7 @@ Steps to reproduce the animations:
 
 2. Clone this repository.
 
-3. From the local copy directory of this repository Launch Julia and type
+3. From the local copy directory of this repository, launch Julia and type
 
 ```julia
 julia> using Pkg
