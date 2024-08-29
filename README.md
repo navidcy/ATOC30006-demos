@@ -1,6 +1,6 @@
 # ATOC30006-demos
 
-This repository includes scripts to reproduce animations used during the course "Modern and future climate" (ATOC30006) @ UniMelb.
+This repository includes scripts to reproduce animations used during the course ["Modern and future climate" (ATOC30006)](https://handbook.unimelb.edu.au/2024/subjects/atoc30006/print) at the University of Melbourne.
 
 Simulations use the [Julia programming language](https://julialang.org) and  are based on the Julia package: Oceananigans.jl. We refer you to the Oceananigans.jl [repository](https://github.com/CliMA/Oceananigans.jl) and the [documentation](https://clima.github.io/OceananigansDocumentation/stable/) for more information.
 
