@@ -30,4 +30,4 @@ should do the job!
 
 Contents:
 
-* `twodimensional_turbulence_tracer.jl`: two-dimensional turbulence and a passive tracer. Change `GPU()` to `CPU()` if you are running this on a device that does not have an Nvidia GPU. If running on CPU, then consider reducing the resolution from 1024 to 128 to begin with.
+* `twodimensional_turbulence_tracer.jl`: two-dimensional turbulence and a passive tracer. Change the positional argument `GPU()` to `CPU()` in the grid constructor, if you are running this on a device that does not have an Nvidia GPU. If running on CPU, then consider reducing the resolution from 1024 to 128 to begin with.
